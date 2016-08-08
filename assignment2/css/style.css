@@ -1,0 +1,53 @@
+/*Profile Picture*/
+#profile-pic {
+	/*Edit size and round corners*/
+	width: 30%;
+	border-radius: 100%;
+
+    border-style: solid;
+    border-width: 6px;
+
+}
+
+
+
+
+/*About Me Paragraph*/
+.embedded-link {
+	color: #2C3E50;
+	font-weight: bold;
+	/*text-decoration: underline;*/
+}
+
+.embedded-link:hover {
+    background: none;
+    color: white;
+}
+
+.embedded-link:active {
+    background: none;
+    color: white;
+}
+
+
+
+
+/*Portfolio*/
+.portfolio-item {
+	font-size: 150%;
+}
+
+
+
+
+/*Connect with Me Icons*/
+img.social {
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+	height: 75px;
+}
+
+#stack-overflow {
+	border-radius: 10%;
+}
