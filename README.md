@@ -6,3 +6,5 @@ Please checkout my wepbage at [thomas-thompson.herokuapp.com](http://thomas-thom
 This page chronicals all of the project I developed while at Rutgers Coding Bootcamp.
 
 Please check in periodically since I am constantly adding new projects.
+
+All of the clip art icons in the app can be found [here](http://www.flaticon.com/).
