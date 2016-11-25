@@ -7,4 +7,4 @@ This page chronicles all of the projects that I developed while at Rutgers Codin
 
 Please check in periodically since I am constantly adding new projects.
 
-All of the clip art icons in the app can be found [here](http://www.flaticon.com/).
+All of the clip art icons in the app can be found [here](http://www.flaticon.com/)!
