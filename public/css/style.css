@@ -1,7 +1,8 @@
 /*Profile Picture*/
 #profile-pic {
 	/*Edit size and round corners*/
-	width: 30%;
+	/*width: 30%;*/
+  width: 100%;
 	border-radius: 100%;
 
     border-style: solid;
