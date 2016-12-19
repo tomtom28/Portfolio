@@ -322,6 +322,19 @@
                         <center id="newspaperFill"><img src="img/portfolio/newspaper.png" class="img-responsive" alt=""></center>
                     </a>
                 </div>
+
+                <div class="col-sm-4 portfolio-item">
+                    <!-- <a href="https://github.com/tomtom28/nyt-react" target="_blank" class="portfolio-link"> -->
+                    <a href="#portfolioModal-nytReact" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <!-- <i class="fa fa-search-plus fa-3x"></i> -->
+                                <span class = "portfolio-item">NY Times ReactJS</span>
+                            </div>
+                        </div>
+                        <center id="nytReactFill"><img src="img/portfolio/skyscraper.png" class="img-responsive" alt=""></center>
+                    </a>
+                </div>
             </div>
         </div>
     </section>
@@ -1109,7 +1122,47 @@
         </div>
     </div>
 
-    <!-- MongoDB Web Scraper -->
+    <!-- New York Times ReactJS App -->
+    <div class="portfolio-modal modal fade" id="portfolioModal-nytReact" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <h2>NY Times, React Rendition</h2>
+                                </div>
+                            </div>
+
+                            <hr class="star-primary">
+
+                            <a href="https://ny-times-react.herokuapp.com/" target="_blank">
+                                <img class="github-screenshots" src="https://github.com/tomtom28/nyt-react/blob/master/screenshots/query-articles.png?raw=true" alt="New York Times React App">
+                            </a>
+
+                            <p>A NodeJS, MongoDB, Express, and ReactJS application where users can query, display, and bookmark articles from the <a href="http://developer.nytimes.com/" target="_new">New York Times Article Search API</a>. On the Back End, the app uses Express to serve routes and Mongoose to interact with a MongoDB database. On the Front End, the app uses ReactJS for rendering components, Axios for internal/external API calls, and Bootstrap as a styling framework. In order to transpile the JSX code, webpack and babel were utilized.</p>
+                            <ul class="list-inline item-details"> 
+                                <strong>Check it out:</strong>
+                                <li>
+                                    <strong><a href="https://github.com/tomtom28/nyt-react" target="_blank">GitHub</a>
+                                    </strong>
+                                </li>
+                                <li>
+                                    <strong><a href="https://ny-times-react.herokuapp.com/" target="_blank">Heroku</a>
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-danger" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- MongoDB Web Scraper -->
     <div class="portfolio-modal modal fade" id="portfolioModal-newspaper" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="container">
@@ -1148,7 +1201,6 @@
             </div>
         </div>
     </div>
-
 
 
 <!-- =================================================================================================== -->
