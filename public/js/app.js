@@ -13,4 +13,8 @@ $(document).ready(function(){
     $('.navbar-toggle:visible').click();
   });
 
+
+  // Show Tool Tips for Skills
+  $('[data-toggle="tooltip"]').tooltip();
+
 });

@@ -40,9 +40,6 @@
 	font-size: 150%;
 }
 
-
-
-
 /*Connect with Me Icons*/
 img.social {
 	padding-top: 5px;
@@ -93,9 +90,6 @@ img.social {
 #hackQrFill{
   background-color: #8668c4;
 }
-#broHangman{
-  background-color: #65d1d3;
-}
 #bucketBuddyFill{
   background-color: #006a91;
 }
@@ -106,18 +100,21 @@ img.social {
 #nytReactFill{
   background-color: #0d9bc6;
 }
-#meteorGramFill{
+/*#meteorGramFill{
   background-color: #e0e0e0; 
-}
+}*/
 #swolenessPalFill{
-  background-color: #8668c4;
+  background-color: #ffe272;
 }
-#myFirstPythonFill{
+/*#myFirstPythonFill{
   background-color: #f79a36;
-}
-#crapYapFill{
+}*/
+/*#crapYapFill{
   background-color: #2dbf82;
-}
+}*/
 #javaBurgerFill{
   background-color: #2dbf82;
+}
+#worldWarIIScrapbookFill{
+  background-color: #0774af;
 }
